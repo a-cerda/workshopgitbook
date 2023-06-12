@@ -21,6 +21,6 @@ layout: landing
 [integracion-con-git-hub.md](integracion-con-git-hub.md)
 {% endcontent-ref %}
 
-{% content-ref url="manejo-de-espacios.md" %}
-[manejo-de-espacios.md](manejo-de-espacios.md)
+{% content-ref url="manejo-de-espacios/" %}
+[manejo-de-espacios](manejo-de-espacios/)
 {% endcontent-ref %}
